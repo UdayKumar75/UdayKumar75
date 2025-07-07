@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a data enthusiast who transitioned from civil engineering to data analytics and now exploring data science. I enjoy working on real-world problems using tools like **Python, Power BI, SQL, and Excel**. I’ve built projects in sales forecasting, supply chain analytics, customer behavior, and survey analysis.
+I'm a data enthusiast and recent engineering graduate who shifted from civil to analytics, and now actively exploring data science. I love working on practical problems using tools like **Python, SQL, Power BI, and Excel**. I've worked on data analysis projects across domains like sales, supply chain, and surveys, and I’m now focused on learning, developing, and soon deploying data science and machine learning solutions.
 
 ---
 
