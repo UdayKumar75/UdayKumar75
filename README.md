@@ -2,7 +2,6 @@
 
 🎓 **Recent B.Tech Graduate** | 📊 **Aspiring Data Analyst / Data Scientist**  
 📍 Bokaro Steel City, Jharkhand, India  
-🔗 [LinkedIn](http://www.linkedin.com/in/uday-kumar-contact) | 🔗 [GitHub](https://github.com/UdayKumar75)
 
 ---
 
