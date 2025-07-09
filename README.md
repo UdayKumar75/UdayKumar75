@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uday Kumar
 
-🎓 **Recent B.Tech Graduate** | 📊 **Aspiring Data Analyst / Data Scientist**  
+🎓 **Recent B.Tech Graduate** | 📊 **Aspiring Data Analyst / Data Scientist**
 📍 Bokaro Steel City, Jharkhand, India  
 
 ---
